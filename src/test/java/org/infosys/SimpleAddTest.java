@@ -11,8 +11,6 @@ import java.util.Collection;
 
 public class SimpleAddTest {
 
-
-
     @ParameterizedTest
     @CsvSource({"10,20 ,30",
             "3,4,7"})
